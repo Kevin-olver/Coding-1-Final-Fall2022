@@ -34,9 +34,9 @@ footer{
     color:#84BD91;
 
 }
-h3,h1,h2{
+h3,h1,h2,h4{
     margin-top:100px;
-    margin-left: 100px;
+    margin-bottom: 100px;
     text-align: center;
 }
 #big-frog{
