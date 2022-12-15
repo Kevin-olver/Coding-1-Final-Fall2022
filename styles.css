@@ -1,5 +1,28 @@
-img {
+body{
+    font-size: large;
+    font-family: "Times New Roman", Times, serif;
+    color:#84BD91;
+}
+img{
+    height:auto;
     width:100%;
-    height:650px;
-
+    display:flex;
+}
+footer{
+    position:bottom;
+    bottom:0;
+    left:0;
+    width:100%;
+    height:90px;
+    background-color:#184D47;
+}
+.fit{
+    background: transparent no-repeat center;
+    background-size: cover;
+    left: auto;
+    right: auto;
+  }
+.card{
+    height:200px;
+    width:auto;
 }
